@@ -1,0 +1,13 @@
+{
+  "level": "...",
+  "threat_level": "...",
+  "category": "...",
+
+  "maximum_speed": "...",
+  "regular_speed": "...",
+
+  "abilities": [],
+  "weakness": [],
+  "recommended_action": "...",
+  "lore": "..."
+}
