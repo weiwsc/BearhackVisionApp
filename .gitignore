@@ -1,0 +1,75 @@
+# Xcode
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code signing
+*.mobileprovision
+*.p12
+*.cer
+
+# OS files
+.DS_Store
+*.swp
+*~
+Thumbs.db
+
+# Archives
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# ML Models
+*.mlmodel
+*.mlmodelc/
+*.mlpackage/
+*.mlarchive
+*.espresso/
+*.onnx
+*.pt
+*.pth
+*.tflite
+*.caffemodel
+*.prototxt
+*.weights
+*.cfg
+*.pb
+
+# YOLO specific
+yolo*.mlmodel
+yolo*.mlmodelc/
+YOLO*.mlmodel
+YOLO*.mlmodelc/
+*YOLOv*.mlmodel
+*YOLOv*.mlmodelc/

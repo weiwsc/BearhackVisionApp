@@ -2,7 +2,6 @@
 //  SceneDelegate.swift
 //  VisionApp
 //
-//  Created by Dvillera Vian on 2026-04-25.
 //
 
 import UIKit
